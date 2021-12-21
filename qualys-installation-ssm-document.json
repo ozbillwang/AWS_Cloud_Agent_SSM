@@ -22,7 +22,7 @@
     },
     "AgentLocationDebian": {
       "type": "String",
-      "default": "",
+      "default": "https://qualys-instaltion.s3.ap-southeast-2.amazonaws.com/QualysCloudAgent.deb",
       "description": "(Optional) Enter FQDN or full path of Debian Qualys Cloud Agent Installer's location"
     },
     "AgentLocationRPM": {
