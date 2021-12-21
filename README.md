@@ -36,15 +36,15 @@ There are two required options which you must provide.
 
 The SSM Document is tested on following Operating systems:
 
-*	Amazon Linux 2
+* Amazon Linux 2
 
 * CentOS Linux 7.5.1804 (Core)
 
-*	Red Hat Enterprise Linux Server 7.5
+* Red Hat Enterprise Linux Server 7.5 & 8.x
 
-*	Ubuntu Linux 14.04.5
+* Ubuntu Linux 14.04.5 (missing the agent s3 url currently)
 
-*	Microsoft Windows Server 2012 and their service packs
+* Microsoft Windows Server 2012+ and their service packs
 
 ## Important links
 
